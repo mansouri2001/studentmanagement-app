@@ -3,7 +3,7 @@
 @extends('layout') <!-- You might have a master layout, adjust accordingly -->
 
 @section('content')
-<div class="card" style="right:100px ;width:910px;">
+<div class="card" style="right:100px ;width: 950px;">
     <div class="card-header ">
     <h1>Students List</h1>
     </div>
