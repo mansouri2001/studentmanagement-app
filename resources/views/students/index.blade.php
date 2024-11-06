@@ -15,13 +15,7 @@
         <br/>
         <div class="table-responsive">
             <table class="table"> 
-                <thead>
-                    <tr>
-                    
-                    <th>#</th>
-                    <th>First Name</th>
-                    <th>Last Name</th>
-                    <th>Age</th>
+                <thead> 
                     <th>Contact Number</th>
                     <th>Address</th>
                     <th>Email</th>
